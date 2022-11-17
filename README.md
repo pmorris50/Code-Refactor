@@ -8,7 +8,9 @@ Search Engine Optimization is now a working link to the Search Engine Optimizati
 ## Screenshot
 ![screenshot of webpage](./assets/images/Screenshot.jpeg)
 ## Link to deployed site
-file:///Users/patricksoftwareengineering/Desktop/Homework/Code-Refactor/index.html#online-reputation-management
+
+[Deployed Page](https://pmorris50.github.io/Code-Refactor/)
+
 
 ## Application
 Tips and tools for an online business presense.
